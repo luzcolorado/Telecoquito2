@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity_glosario"></activity>
+        <activity android:name=".GlosarioActivity" />
+        <activity android:name=".NoticiasActivity" />
+        <activity android:name=".CursosActivity" />
+        <activity android:name=".ConceptosActivity" />
     </application>
 
 </manifest>
